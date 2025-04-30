@@ -6,7 +6,7 @@ Class {
 }
 
 { #category : 'baselines' }
-BaselineOfCounter class >> baseline: spec [
+BaselineOfCounter >> baseline: spec [
 	<baseline>
 	
 	spec for: #common do: [
